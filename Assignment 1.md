@@ -12,7 +12,6 @@ Competition rules:
 - The solutions must use less than 100MB of memory.
 - The solutions must run in less than 10 seconds.
 - The LLM must produce the code in less than 120 seconds on a single RTX 1080 GPU.
-- The base LLM must be no bigger than 5B parameters.
 - The LLM cannot use the internet.
 - Your code must be written in a single file named "uet_coder.py".
 - You must submit the "uet_coder.py" file and the model weights.
