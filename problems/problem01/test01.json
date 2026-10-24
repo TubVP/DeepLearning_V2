@@ -1,0 +1,17 @@
+{
+    "function_name": "sum_of_two_largest",
+    "test_cases": [
+        {
+            "parameters": {
+                "nums": [1, 2, 3, 4, 5]
+            },
+            "expected_output": 9
+        },
+        {
+            "parameters": {
+                "nums": [1, 2, 3, 4, 0, 6]
+            },
+            "expected_output": 10
+        }
+    ]
+}

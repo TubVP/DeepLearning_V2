@@ -1,0 +1,25 @@
+{
+  "function_name": "knapsack_max_value",
+  "test_cases": [
+    {
+      "parameters": {"items": [[2,3],[3,4],[4,5]], "C": 5},
+      "expected_output": 7
+    },
+    {
+      "parameters": {"items": [[1,1],[2,2],[3,3]], "C": 3},
+      "expected_output": 3
+    },
+    {
+      "parameters": {"items": [[5,10],[4,7],[6,12]], "C": 10},
+      "expected_output": 19
+    },
+    {
+      "parameters": {"items": [[2,1],[1,2],[3,3]], "C": 4},
+      "expected_output": 5
+    },
+    {
+      "parameters": {"items": [[10,100]], "C": 5},
+      "expected_output": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "function_name": "max_path_sum",
+  "test_cases": [
+    {
+      "parameters": {"grid": [[5,3,2],[1,4,1],[1,5,1]]},
+      "expected_output": 18
+    },
+    {
+      "parameters": {"grid": [[1,2],[3,4]]},
+      "expected_output": 8
+    },
+    {
+      "parameters": {"grid": [[10]]},
+      "expected_output": 10
+    },
+    {
+      "parameters": {"grid": [[1,1,1],[1,1,1],[1,1,1]]},
+      "expected_output": 5
+    }
+  ]
+}

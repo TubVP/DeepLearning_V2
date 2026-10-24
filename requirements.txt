@@ -1,0 +1,9 @@
+# DeepLearning_V2 - Python 3.12
+# PyTorch CUDA 12.8 wheels (requires a compatible NVIDIA driver).
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch==2.11.0
+transformers==5.20.2
+accelerate
+bitsandbytes
+safetensors
